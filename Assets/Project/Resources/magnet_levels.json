@@ -1,0 +1,24 @@
+{
+  "Data": [
+    {
+      "Radius": 6,
+      "Cost": 25
+    },
+    {
+      "Radius": 10,
+      "Cost": 50
+    },
+    {
+      "Radius": 16,
+      "Cost": 100
+    },
+    {
+      "Radius": 24,
+      "Cost": 250
+    },
+    {
+      "Radius": 50,
+      "Cost": 1000
+    }
+  ]
+}
